@@ -10,6 +10,8 @@ I am working on how to visualize it better here using github pages, it can be do
 
 EDM2018VIAJES.dta contains a raw stata file with all the trips as well as other variables.
 
-This repository does not contain the geographical data as it is quite heavy
+This repository does not contain the geographical data as it is quite heavy.
+
+This is where I learned how to use these geographical tools to make the map: https://darribas.org/gds4ae/content/pages/home.html
 
 1/010/2024
